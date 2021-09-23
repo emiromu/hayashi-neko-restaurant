@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MeowsFont';
+    src: url('../assets/meows-vgwjy.woff') format('woff'),
+      url('../assets/meows-vgwjy.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.meow {
+    color: white;
+    font-family: 'MeowsFont';
+    font-size: xx-large;
+  }
+
