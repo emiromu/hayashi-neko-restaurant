@@ -16,7 +16,7 @@
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/meows-vgwjy.woff */ \"./assets/meows-vgwjy.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/meows-vgwjy.woff2 */ \"./assets/meows-vgwjy.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n    font-family: 'MeowsFont';\\n    src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \") format('woff'),\\n      url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \") format('woff2');\\n    font-weight: 600;\\n    font-style: normal;\\n  }\\n\\n.meows{\\n    color: white;\\n    font-family: 'MeowsFont';\\n    font-size: xx-large;\\n  }\\n\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/meows-vgwjy.woff */ \"./assets/meows-vgwjy.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/meows-vgwjy.woff2 */ \"./assets/meows-vgwjy.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"@font-face {\\n    font-family: 'MeowsFont';\\n    src: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \") format('woff'),\\n      url(\" + ___CSS_LOADER_URL_REPLACEMENT_1___ + \") format('woff2');\\n    font-weight: 600;\\n    font-style: normal;\\n  }\\n\\n.body{\\n    background-color: #30241a;\\n    color: white;\\n}\\n\\n.meows{\\n    color: white;\\n    font-family: 'MeowsFont';\\n    font-size: xx-large;\\n  }\\n\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -140,6 +140,28 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/contact.js":
+/*!************************!*\
+  !*** ./src/contact.js ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ componentContact)\n/* harmony export */ });\nfunction componentContact() {\n\n    const element = document.createElement('div');\n    element.innerHTML = 'contact' + '<br/>';\n\n    return element;\n}\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/contact.js?");
+
+/***/ }),
+
+/***/ "./src/home.js":
+/*!*********************!*\
+  !*** ./src/home.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ componentHome)\n/* harmony export */ });\nfunction componentHome() {\n    \n    const element = document.createElement('div');\n    element.innerHTML = 'home' + '<br/>';\n\n    return element;\n}\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/home.js?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
@@ -147,7 +169,18 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _data_menu_csv__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../data/menu.csv */ \"./data/menu.csv\");\n/* harmony import */ var _data_menu_csv__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_data_menu_csv__WEBPACK_IMPORTED_MODULE_1__);\n\n\n//import Icon from './assets/cat.jpg';\n\nconsole.log('いらっしゃいませにゃ！');\nconsole.log((_data_menu_csv__WEBPACK_IMPORTED_MODULE_1___default()));\n\nfunction componentBanner() {\n  \n    const banner = document.createElement('div');\n    banner.innerHTML = 'Hayashi Neko' + '<br/>';\n    banner.classList.add('meows');\n\n    //const myIcon = new Image();\n    //myIcon.src = Icon;\n    //element.appendChild(myIcon);\n\n    return banner;\n}\n\ndocument.body.appendChild(componentBanner());\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _home_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./home.js */ \"./src/home.js\");\n/* harmony import */ var _menu_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./menu.js */ \"./src/menu.js\");\n/* harmony import */ var _contact_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./contact.js */ \"./src/contact.js\");\n\n\n\n\n//import Icon from './assets/cat.jpg';\n\nconsole.log('いらっしゃいませにゃ！');\n\nfunction componentBanner() {\n    /***\n\n    ***/\n\n    const banner = document.createElement('div');\n    banner.innerHTML = 'Hayashi Neko' + '<br/>';\n    banner.classList.add('meows');\n\n    //const myIcon = new Image();\n    //myIcon.src = Icon;\n    //element.appendChild(myIcon);\n\n    return banner;\n}\n\nfunction componentTopMenu(){\n    /***\n\n    ***/\n\n    const topMenu = document.createElement('div');\n    topMenu.innerHTML = 'top menu here';\n\n    return topMenu;\n}\n\nfunction componentMainPannel(){\n    /***\n\n    ***/\n\n    const mainPannel = document.createElement('div');\n    mainPannel.setAttribute(\"id\", \"mainPannel\");\n    mainPannel.innerHTML = 'main pannel here';\n\n    return mainPannel;\n}\n\nfunction componentFooter(){\n    /***\n\n    ***/\n\n    const footer = document.createElement('div');\n    footer.innerHTML = 'footer here';\n\n    return footer;\n}\n\n\ndocument.body.classList.add('body');\n\n\n\ndocument.body.appendChild(componentBanner());\ndocument.body.appendChild(componentTopMenu());\ndocument.body.appendChild(componentMainPannel());\ndocument.body.appendChild(componentFooter());\n\n\nconst mainPannel= document.querySelector(\"#mainPannel\");\n\nmainPannel.appendChild((0,_home_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"])());\n\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ componentMenu)\n/* harmony export */ });\n/* harmony import */ var _data_menu_csv__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../data/menu.csv */ \"./data/menu.csv\");\n/* harmony import */ var _data_menu_csv__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_data_menu_csv__WEBPACK_IMPORTED_MODULE_0__);\n\n\nfunction componentMenu() {\n\n    const element = document.createElement('div');\n    element.innerHTML = 'menu' + '<br/>';\n    console.log((_data_menu_csv__WEBPACK_IMPORTED_MODULE_0___default()));\n\n    return element;\n}\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/menu.js?");
 
 /***/ }),
 
@@ -283,7 +316,7 @@ eval("module.exports = __webpack_require__.p + \"58d1e0e9e3a3492d2f67.woff2\";\n
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			"main": 0
+/******/ 			"index": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading

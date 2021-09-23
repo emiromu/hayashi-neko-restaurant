@@ -6,6 +6,11 @@
     font-style: normal;
   }
 
+.body{
+    background-color: #30241a;
+    color: white;
+}
+
 .meows{
     color: white;
     font-family: 'MeowsFont';
