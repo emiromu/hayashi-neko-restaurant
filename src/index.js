@@ -1,22 +1,19 @@
 import './style.css';
 //import Icon from './assets/cat.jpg';
 
+console.log('いらっしゃいませにゃ！');
 
+function componentBanner() {
+  
+    const banner = document.createElement('div');
+    banner.innerHTML = 'Huh' + '<br/>';
+    banner.classList.add('meows');
 
-function component() {
-  const element = document.createElement('div');
+    //const myIcon = new Image();
+    //myIcon.src = Icon;
+    //element.appendChild(myIcon);
 
-  element.innerHTML = 'Huh' + '<br/>';
-  console.log('Welcome');
-
-  //element.classList.add('hello');
-
-  //const myIcon = new Image();
-  //myIcon.src = Icon;
-  //element.appendChild(myIcon);
-
-  return element;
-
+    return banner;
 }
 
-document.body.appendChild(component());
+document.body.appendChild(componentBanner());

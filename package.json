@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/emiromu/hayashi-neko-restaurant#readme",
   "devDependencies": {
+    "css-loader": "^6.3.0",
+    "csv-loader": "^3.0.3",
+    "style-loader": "^3.3.0",
     "webpack": "^5.53.0",
     "webpack-cli": "^4.8.0"
   }
