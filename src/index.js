@@ -94,11 +94,14 @@ function componentFooter(){
     const footer = document.createElement('div');
     footer.setAttribute("id", "footer");
     footer.classList.add('container-horizontal','footer');
-    footer.innerHTML = '<div>Demo website by emiromu : <a href="https://github.com/emiromu/hayashi-neko-restaurant">github</a></div>';
 
     const TOPDisclaimer = document.createElement('div');
-    TOPDisclaimer.innerHTML = 'Made as part of The Odin Project: <a href="www.theodinproject.com">www.theodinproject.com</a></div>'
+    TOPDisclaimer.innerHTML = 'Made as part of The Odin Project: <a href="www.theodinproject.com">www.theodinproject.com</a>'
     footer.appendChild(TOPDisclaimer);
+
+    const emiromuDisclaimer = document.createElement('div');
+    emiromuDisclaimer.innerHTML = 'Demo website by emiromu : <a href="https://github.com/emiromu/hayashi-neko-restaurant">github</a>';
+    footer.appendChild(emiromuDisclaimer);
 
     const fontDisclaimer = document.createElement('div');
     fontDisclaimer.innerHTML = 'Font by nuraisyahamalia free for non-commercial use: <a href="https://www.creativefabrica.com/designer/nuraisyahamalia/ref/369973">link</a>';

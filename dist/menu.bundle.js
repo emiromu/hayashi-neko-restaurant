@@ -15,7 +15,7 @@
   \***********************/
 /***/ ((module) => {
 
-eval("module.exports = [[\"name\",\"description\",\"price\"],[\"Signature HaNYAshi Rice (ハヤシライス)\",\"Western style beef stew served with rice - our signature hayashi sauce is inspired from the French boeuf bourguignon\",\"11 meows\"],[\"Extra Pickled Ginger Side (紅生姜)\",\"Extra serving of red pickled ginger - beni shoga\",\"1 meow\"],[\"Banana Milk (バナナミルク)\",\"Home-mode banana flavoured sweet milk\",\"2 meows\"]]\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./data/menu.csv?");
+eval("module.exports = [[\"name\",\"description\",\"price\"],[\"Signature HaNYAshi Rice (看板 ハヤシライス)\",\"Western style beef stew served with rice - our signature hayashi sauce is inspired from the French boeuf bourguignon\",\"11 meows\"],[\"Black Hayashi Rice (黒 ハヤシライス)\",\"Dark beef stew with black beans and black garlic served with rice\",\"13 meows\"],[\"Extra Pickled Ginger Side (紅生姜)\",\"Extra serving of red pickled ginger - beni shoga\",\"1 meow\"],[\"Green Tea (お茶)\",\"Unlimited refills of hot green tea\",\"1 meow\"],[\"Banana Milk (バナナミルク)\",\"Home-mode banana flavoured sweet milk\",\"2 meows\"]]\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./data/menu.csv?");
 
 /***/ }),
 
