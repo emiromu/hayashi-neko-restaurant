@@ -16,7 +16,7 @@
   \************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ componentContact)\n/* harmony export */ });\nfunction componentContact() {\n\n    const element = document.createElement('div');\n    element.innerHTML = 'contact' + '<br/>';\n\n    return element;\n}\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/contact.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ componentContact)\n/* harmony export */ });\nfunction componentContact() {\n\n    const element = document.createElement('div');\n    element.classList.add('container');\n    element.innerHTML = 'contact' + '<br/>';\n\n    return element;\n}\n\n//# sourceURL=webpack://hayashi-neko-restaurant/./src/contact.js?");
 
 /***/ })
 
