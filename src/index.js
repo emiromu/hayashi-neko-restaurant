@@ -61,14 +61,14 @@ function componentNavigation(){
     menuButton.classList.add('top-button');
     menuButton.innerHTML='Menu';
 
-    const aboutButton = document.createElement('button');
-    aboutButton.setAttribute("id","aboutButton");
-    aboutButton.classList.add('top-button');
-    aboutButton.innerHTML='About';
+    const contactButton = document.createElement('button');
+    contactButton.setAttribute("id","contactButton");
+    contactButton.classList.add('top-button');
+    contactButton.innerHTML='Contact';
 
     navigation.appendChild(homeButton);
     navigation.appendChild(menuButton);
-    navigation.appendChild(aboutButton);
+    navigation.appendChild(contactButton);
 
     return navigation;
 }
@@ -81,7 +81,6 @@ function componentMainPannel(){
     const mainPannel = document.createElement('div');
     mainPannel.setAttribute("id", "mainPannel");
     mainPannel.classList.add('container-vertical','main');
-    mainPannel.innerHTML = 'main pannel here';
 
     return mainPannel;
 }
@@ -95,16 +94,12 @@ function componentFooter(){
     footer.setAttribute("id", "footer");
     footer.classList.add('container-horizontal','footer');
 
-    const TOPDisclaimer = document.createElement('div');
-    TOPDisclaimer.innerHTML = 'Made as part of The Odin Project: <a href="www.theodinproject.com">www.theodinproject.com</a>'
-    footer.appendChild(TOPDisclaimer);
-
     const emiromuDisclaimer = document.createElement('div');
-    emiromuDisclaimer.innerHTML = 'Demo website by emiromu : <a href="https://github.com/emiromu/hayashi-neko-restaurant">github</a>';
+    emiromuDisclaimer.innerHTML = 'Demo website by emiromu (Emilien Romulus) : <a href="https://github.com/emiromu/hayashi-neko-restaurant">github</a>';
     footer.appendChild(emiromuDisclaimer);
 
     const fontDisclaimer = document.createElement('div');
-    fontDisclaimer.innerHTML = 'Font by nuraisyahamalia free for non-commercial use: <a href="https://www.creativefabrica.com/designer/nuraisyahamalia/ref/369973">link</a>';
+    fontDisclaimer.innerHTML = 'Font by nuraisyahamalia, free for non-commercial use: <a href="https://www.creativefabrica.com/designer/nuraisyahamalia/ref/369973">link</a>';
     footer.appendChild(fontDisclaimer);
 
     return footer;

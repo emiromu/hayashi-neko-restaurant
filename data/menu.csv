@@ -1,6 +1,6 @@
-name,description,price
-Signature HaNYAshi Rice (看板 ハヤシライス),Western style beef stew served with rice - our signature hayashi sauce is inspired from the French boeuf bourguignon,11 meows
-Black Hayashi Rice (黒 ハヤシライス),Dark beef stew with black beans and black garlic served with rice,13 meows
-Extra Pickled Ginger Side (紅生姜),Extra serving of red pickled ginger - beni shoga,1 meow
-Green Tea (お茶),Unlimited refills of hot green tea,1 meow
-Banana Milk (バナナミルク),Home-mode banana flavoured sweet milk,2 meows
+name,description,price,picture
+Signature HaNYAshi Rice<br>看板 ハニャシライス,Western style beef stew served with rice - our signature hayashi sauce is inspired from the French boeuf bourguignon,11 meows,hanyashi.png
+Black Hayashi Rice<br>黒 ハヤシライス,Dark beef stew with black beans and black garlic served with rice,13 meows,blackhayashi.png
+Pickled Ginger Side<br>紅生姜,Serving of red pickled ginger - beni shoga,1 meow,benishoga.png
+Green Tea<br>お茶,Unlimited refills of hot green tea,1 meow,tea.png
+Banana Milk<br>バナナミルク,Home-mode banana flavoured sweet milk,2 meows,bananamilk.png
