@@ -1,7 +1,5 @@
 import Menu from '../data/menu.csv';
 
-
-
 export default function componentMenu() {
 
     const element = document.createElement('div');
@@ -16,7 +14,7 @@ export default function componentMenu() {
         menuItems[i-1].setAttribute('id','menuItem'+i);
         menuItems[i-1].classList.add('menu-box');
 
-        menuItems[i-1].innerHTML = `<div id="menuItem`+i+`Picture" class="menu-box-picture" style="background-image: url('../assets/menu-pictures/`+Menu[i][3]+`'); background-size: cover;"></div>
+        menuItems[i-1].innerHTML = `<div id="menuItem`+i+`Picture" class="menu-box-picture" style="background-image: url('./assets/menu-pictures/`+Menu[i][3]+`'); background-size: cover;"></div>
         <div id="menuItem`+i+`Text" class="menu-box-text">`
         +`<div id="menuItem`+i+`Name" class="menu-box-text-title">`+Menu[i][0]+`</div>`
         +`<div id="menuItem`+i+`Description" class="menu-box-text-description">`+Menu[i][1]+`</div>`
