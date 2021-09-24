@@ -68,8 +68,8 @@ html{
 }
 
 .home-picture {
-    width: 60%;
-    height: 60%;
+    width: 480px;
+    height: 270px;
 }
 
 .contact-picture {
@@ -104,13 +104,15 @@ html{
 
 .footer > div {
     margin-top: 1em;
+    margin-bottom: 1em;
     width: 40%;
   }
 
 .core-text{
     text-align: center;
+    font-size: medium;
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 5em;
     margin-left: 3em;
     margin-right: 3em;
 }

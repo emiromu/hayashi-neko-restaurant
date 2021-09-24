@@ -115,9 +115,21 @@ document.body.appendChild(componentMainPannel());
 document.body.appendChild(componentFooter());
 
 
-
+//Landing page is Home main pannel
 const mainPannel= document.querySelector("#mainPannel");
-
 mainPannel.appendChild(componentHome());
-//mainPannel.appendChild(componentMenu());
-//mainPannel.appendChild(componentContact());
+
+document.querySelector('#homeButton').addEventListener("click", function(e){
+    mainPannel.innerHTML='';
+    mainPannel.appendChild(componentHome());
+});
+
+document.querySelector('#menuButton').addEventListener("click", function(e){
+    mainPannel.innerHTML='';
+    mainPannel.appendChild(componentMenu());
+});
+
+document.querySelector('#contactButton').addEventListener("click", function(e){
+    mainPannel.innerHTML='';
+    mainPannel.appendChild(componentContact());
+});
